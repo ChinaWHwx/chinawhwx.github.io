@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 on Huabing Blog</title>
+    <link>https://chinawhwx.github.io/tags/tag2/</link>
+    <description>Recent content in tag2 on Huabing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://chinawhwx.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Example Post</title>
+      <link>https://chinawhwx.github.io/post/blog/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinawhwx.github.io/post/blog/</guid>
+      <description>Règles du jeu  chaque joueur choisit le nom de son équipe chaque joueur choisit ensuite un combattant suivi de son arme et ce jusqu&amp;rsquo;a ce qu&amp;rsquo;il constitue 3 combattants. Au sein d&amp;rsquo;une même équipe les armes doivent être différentes. après que les 2 joueurs déterminent leurs équipes ils choisissent l&amp;rsquo;arène.  The show begins  le premier coup est affecté aléatoirement entre les deux joueurs. Un joeur n&amp;rsquo;a droit de tirer qu&amp;rsquo;une seule fois.</description>
+    </item>
+    
+  </channel>
+</rss>
